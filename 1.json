@@ -1,0 +1,66 @@
+{
+    "name": "Mohammed hashim",
+    "contact": {
+      "email": "hashim@email.com",
+      "phone": "9718461215",
+      "address": {
+        "street": "123 Main St",
+        "city": "City",
+        "state": "tn",
+        "zip": "12345",
+        "country": "india"
+      }
+    },
+    "summary": "Experienced software developer with a focus on web development and a strong background in JavaScript, HTML, and CSS.",
+    "education": [
+      {
+        "degree": "Bachelor of Enginnering",
+        "school": "University of Tech",
+        "graduation_year": 2020
+      }
+    ],
+    "experience": [
+      {
+        "title": " Engineer",
+        "company": "ABC Solutions Inc.",
+        "location": "chennai",
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "responsibilities": [
+          "Developed and maintained web applications using JavaScript, React, and Node.js.",
+          "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+          "Conducted code reviews and mentored junior developers."
+        ]
+      },
+      {
+        "title": " Engineer",
+        "company": "Guvi",
+        "location": " City",
+        "start_date": "2020-05-15",
+        "end_date": "2020-12-31",
+        "responsibilities": [
+          "Implemented new features and enhancements in collaboration with the product team.",
+          "Participated in the full software development lifecycle."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Git",
+      "Agile",
+      "RESTful API"
+    ],
+    "languages": ["English"],
+    "certifications": [
+      {
+        "name": "Certified Web Developer",
+        "authority": "Web Development Association",
+        "date": "2012-06-15"
+      }
+    ]
+  }
+  
